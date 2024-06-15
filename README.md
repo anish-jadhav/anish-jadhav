@@ -8,10 +8,10 @@ I am an AI enthusiast currently pursuing MS in AI. Having worked in Dell and Mor
 Skills: Machine Learning(Supervised/Unsupervised), Deep Learning, NLP, LLMs, Generative AI, Time Series Analysis, Causal ML, Anomaly Detection.
 
 🔍 What I Bring to the Table:
--Expertise in Machine Learning: Hands-on experience in developing, deploying, and optimizing ML models.
--AI Enthusiast: Skilled in natural language processing, computer vision, and predictive analytics.
--Data Science Pro: Proficient in data wrangling, visualization, and statistical analysis to uncover hidden patterns.
+-Expertise in Machine Learning: Hands-on experience in developing, deploying, and optimizing ML models.<br>
+-AI Enthusiast: Skilled in natural language processing, computer vision, and predictive analytics.<br>
+-Data Science Pro: Proficient in data wrangling, visualization, and statistical analysis to uncover hidden patterns.<br>
 
-🌟 Looking for Opportunities:
--Eager to bring my expertise to dynamic teams focused on machine learning, AI, and data science.
--Open to roles that challenge me to innovate and drive forward-thinking solutions.
+🌟 Looking for Opportunities:<br>
+-Eager to bring my expertise to dynamic teams focused on machine learning, AI, and data science.<br>
+-Open to roles that challenge me to innovate and drive forward-thinking solutions.<br>
